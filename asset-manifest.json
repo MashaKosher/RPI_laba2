@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RPI_laba2/static/css/main.8e3d77cb.css",
-    "main.js": "/RPI_laba2/static/js/main.db44e80d.js",
+    "main.js": "/RPI_laba2/static/js/main.1476108b.js",
     "static/media/Gerb.png": "/RPI_laba2/static/media/Gerb.d206c803590fccdc644b.png",
     "static/media/alex2.jpg": "/RPI_laba2/static/media/alex2.0e13e8c9ecff138f118a.jpg",
     "static/media/alex3.jpg": "/RPI_laba2/static/media/alex3.1bfa54abb0426dbfbf98.jpg",
@@ -29,10 +29,10 @@
     "static/media/nik2.jpg": "/RPI_laba2/static/media/nik2.e36136a5499f71402532.jpg",
     "index.html": "/RPI_laba2/index.html",
     "main.8e3d77cb.css.map": "/RPI_laba2/static/css/main.8e3d77cb.css.map",
-    "main.db44e80d.js.map": "/RPI_laba2/static/js/main.db44e80d.js.map"
+    "main.1476108b.js.map": "/RPI_laba2/static/js/main.1476108b.js.map"
   },
   "entrypoints": [
     "static/css/main.8e3d77cb.css",
-    "static/js/main.db44e80d.js"
+    "static/js/main.1476108b.js"
   ]
 }
