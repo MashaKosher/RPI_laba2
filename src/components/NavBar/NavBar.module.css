@@ -1,0 +1,42 @@
+@media(min-width: 450px){
+    .nav{
+        height: 100px;
+        width: 400px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .gerb{
+        height: 70px;
+        width: 70px;
+    }
+}
+
+@media(max-width: 450px){
+    .nav{
+        height: 100px;
+        width: 320px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .gerb{
+        height: 45px;
+        width: 45px;
+    }
+}
+
+
+.nav>*{
+    text-decoration: none;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav>*:hover{
+    color: darkred;
+}
+
+
+
+
